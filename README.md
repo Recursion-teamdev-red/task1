@@ -5,5 +5,5 @@
 name-feature-task-01-01 として頂きます様お願い致します。
 
 例 (1, 2回目):
-Tai-feature-task-01-01 
+Tai-feature-task-01-01
 Tai-feature-task-01-02
